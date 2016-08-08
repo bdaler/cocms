@@ -1,3 +1,3 @@
 # cocms
-Very simple cms in codeigniter
-don't forget change connection to database
+Very simple cms in codeigniter.
+Don't forget change connection to database
